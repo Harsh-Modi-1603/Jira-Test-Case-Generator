@@ -56,7 +56,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 more-itertools==10.6.0
 multidict==6.1.0
-numpy>=1.24,<1.25
+# numpy>=1.24,<1.25
 oauthlib==3.2.2
 ollama==0.4.7
 orjson==3.10.15
